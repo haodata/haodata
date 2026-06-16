@@ -1,6 +1,7 @@
-# Hey, everyone! 👋 Welcome to my profile
+<img width="1200" height="300" alt="profile_banner" src="https://github.com/user-attachments/assets/fcf3df18-d53a-4a9f-be6b-9eb1ba222f6f" />
 
-## 📌 A little bit about me
+
+##  📌A little bit about me
 
 ```yaml
 name: Wenhao Li

@@ -6,7 +6,7 @@
 ```yaml
 name: Wenhao Li
 location: Stockholm, Sweden
-occupation: Data Scientist
+occupation: Data Analyst
 
 education:
   Full-Stack Data Analytics Bootcamp:

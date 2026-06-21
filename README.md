@@ -39,7 +39,7 @@ fields_of_interest:
 - **[Walmart-Sales-Forecasting](https://github.com/haodata/Walmart-Sales-Forecasting)** — Predictive time-series models (GRU/LSTM) in Python to forecast retail demand
 - **[e-commerce_analytics_with_dashboard](https://github.com/haodata/e-commerce_analytics_with_dashboard)** — KPI dashboards analyzing revenue trends, customer behavior, and operational performance
 - **[Marketing-Campaign-A-B-n-Testing-Analysis](https://github.com/haodata/Marketing-Campaign-A-B-n-Testing-Analysis)** — A/B/n testing and statistical campaign performance analysis
-- **[Spotify_Music_Analytics_2015-2025](https://github.com/haodata/Spotify_Music_Analytics_2015-2025)** — Interactive dashboard exploring 85,000 Spotify tracks across 10 countries and 12 genres
+- **[Customer_Churn_Prediction_Machine_Learning](https://haodata.github.io/customer-churn-prediction-ml/)** — Interactive dashboard analyzing churn patterns across 7,043 telecom customers, comparing ML models and featuring a live risk simulator
 
 ## 📫 Let's connect
 

@@ -33,13 +33,16 @@ fields_of_interest:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
 
 ## 🚀 Pinned projects
-
+- **[football-betting-analytics-pipeline](https://github.com/haodata/football-betting-analytics-pipeline)** — End-to-end BigQuery + dbt pipeline (14 models, 115+ tests) turning 17,937 European football matches into betting-odds analytics, with a live dashboard
 - **[Walmart-Sales-Forecasting](https://github.com/haodata/Walmart-Sales-Forecasting)** — Predictive time-series models (GRU/LSTM) in Python to forecast retail demand
-- **[e-commerce_analytics_with_dashboard](https://github.com/haodata/e-commerce_analytics_with_dashboard)** — KPI dashboards analyzing revenue trends, customer behavior, and operational performance
 - **[Marketing-Campaign-A-B-n-Testing-Analysis](https://github.com/haodata/Marketing-Campaign-A-B-n-Testing-Analysis)** — A/B/n testing and statistical campaign performance analysis
 - **[Customer_Churn_Prediction_Machine_Learning](https://haodata.github.io/customer-churn-prediction-ml/)** — Interactive dashboard analyzing churn patterns across 7,043 telecom customers, comparing ML models and featuring a live risk simulator
+
 
 ## 📫 Let's connect
 

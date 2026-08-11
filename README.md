@@ -5,7 +5,6 @@
 
 ```yaml
 name: Wenhao Li
-location: Stockholm, Sweden
 occupation: Data Analyst
 
 education:
